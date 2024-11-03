@@ -1,2 +1,2 @@
 # Data-Documentation
-All things DWH, DL, LH, BI, DM
+My personal journal on all things DWH, DL, LH, BI, DM
